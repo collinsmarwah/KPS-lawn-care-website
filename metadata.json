@@ -1,0 +1,5 @@
+{
+  "name": "KP's Lawn Care",
+  "description": "A comprehensive web application for a lawn care service, featuring a public-facing marketing site with services, gallery, and contact forms, along with a secure client portal for managing services, invoices, and payments.",
+  "requestFramePermissions": []
+}
